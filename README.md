@@ -66,7 +66,7 @@ Here is how I hack — with structured and detailed writeup files:
 
 🔗 Also shared on LinkedIn:
 **[File Slayer – Python Cybersecurity Tool Post](https://www.linkedin.com/posts/solomon-tesfaye-088871374_python-cybersecurity-ctf-activity-7352478375124385793-aeaM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFytHigB3ypuKmfnB2mkDs3Xa1SjDm5ah_g)**
-<img width="491" height="209" alt="image" src="https://github.com/user-attachments/assets/31cb3f6f-3738-4172-b3f1-4a96e9cc8adb" />
+<img width="515" height="238" alt="image" src="https://github.com/user-attachments/assets/b30f026b-1004-4c15-9cbf-840b20591cc2" />
 
 🎉 Proudly my **first CLI tool** for the cybersecurity community!
 
