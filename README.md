@@ -25,10 +25,6 @@
 
 I'm always eager to learn, collaborate, and grow. I value **respect**, enjoy having **fun**, and stay **serious when it matters**. Whether it's building tools, finding bugs, or helping others, I'm all in.
 
-Perfect! Here's your fully updated section with a clean and professional style, including your GitHub writeup links and the revised title:
-
----
-
 ## 🛡️ Security Projects & Writeups
 
 Here are a few selected cybersecurity projects and CTF achievements:
@@ -43,8 +39,6 @@ Here are a few selected cybersecurity projects and CTF achievements:
 
 * 🔗 [LinkedIn](https://www.linkedin.com/in/solomon-tesfaye-088871374/)
 * 🐦 [Twitter/X](https://x.com/sol_tes1)
-
----
 
 ### 📄 Writeups (PDF & Markdown)
 
