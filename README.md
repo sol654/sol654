@@ -24,6 +24,7 @@
 ## 💬 About Me
 
 I'm always eager to learn, collaborate, and grow. I value **respect**, enjoy having **fun**, and stay **serious when it matters**. Whether it's building tools, finding bugs, or helping others, I'm all in.
+---
 
 ## 🛡️ Security Projects & Writeups
 
