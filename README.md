@@ -52,6 +52,26 @@ Here is how I hack — with structured and detailed writeup files:
 
 ---
 
+### 🛠️ Custom Tools
+
+💣 **[File Slayer – My First CLI Tool](https://github.com/sol654/file-slayer)**
+→ A Python command-line tool built for CTF players, red teamers, and bug bounty hunters.
+→ Features:
+
+* Safe file/folder deletion
+* Hashing (MD5, SHA1, SHA256)
+* Metadata extraction
+* Pattern-based filtering
+* Logging & exclusions
+
+🔗 Also shared on LinkedIn:
+**[File Slayer – Python Cybersecurity Tool Post](https://www.linkedin.com/posts/solomon-tesfaye-088871374_python-cybersecurity-ctf-activity-7352478375124385793-aeaM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFytHigB3ypuKmfnB2mkDs3Xa1SjDm5ah_g)**
+<img width="491" height="209" alt="image" src="https://github.com/user-attachments/assets/31cb3f6f-3738-4172-b3f1-4a96e9cc8adb" />
+
+🎉 Proudly my **first CLI tool** for the cybersecurity community!
+
+---
+
 ## 📫 Connect with Me
 
 - 🐦 Twitter: [@sol_tes1](https://x.com/sol_tes1)  
