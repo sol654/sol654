@@ -31,10 +31,10 @@ I'm always eager to learn, collaborate, and grow. I value **respect**, enjoy hav
 
 Here are a few selected cybersecurity projects and CTF achievements:
 
-1. [OWASP Juice Shop Vulnerability Report 🧪](https://www.linkedin.com/posts/solomon-tesfaye-088871374_owasp-juice-shop-writeup-ctf-activity-7171004568010919936-6iGm?utm_source=share&utm_medium=member_desktop)
+1. [OWASP Juice Shop Vulnerability Report 🧪](https://www.linkedin.com/posts/solomon-tesfaye-088871374_owasp-juice-shop-activity-7352321473547534336-B5zS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFytHigB3ypuKmfnB2mkDs3Xa1SjDm5ah_g)
    → A detailed vulnerability report based on OWASP Juice Shop challenges.
 
-2. [WGEL CTF - TryHackMe Capture the Flag 🕵️‍♂️](https://www.linkedin.com/posts/solomon-tesfaye-088871374_tryhackme-wgel-ctf-activity-7171775642105458688-7MxA?utm_source=share&utm_medium=member_desktop)
+2. [WGEL CTF - TryHackMe Capture the Flag 🕵️‍♂️](https://www.linkedin.com/posts/solomon-tesfaye-088871374_wgel-ctf-activity-7353947383581360128-F-57?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFytHigB3ypuKmfnB2mkDs3Xa1SjDm5ah_g)
    → Solved WGEL CTF, demonstrating skills in reconnaissance, exploitation, and privilege escalation.
 
 > ⚠️ These are just sample works. I’ve completed many more projects—feel free to explore them on my social profiles:
