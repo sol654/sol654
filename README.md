@@ -46,7 +46,7 @@ Here are a few selected cybersecurity projects and CTF achievements:
 
 Here is how I hack — with structured and detailed writeup files:
 
-* 🧪 [OWASP Juice Shop Writeup](https://github.com/sol654/OWASP-JUICE-SHOPE) (PDF, MD)
+* 🧪 [OWASP Juice Shop Writeup](https://github.com/sol654/OWASP-JUICE-SHOPE) 
 * 🕵️ [TryHackMe WGEL CTF Writeup](https://github.com/sol654/THM-Wgel_ctf-writeup)
 * 📁 [More Writeups →](https://github.com/sol654/CTF_writeups)
 
