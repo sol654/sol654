@@ -1,6 +1,6 @@
 # 👨‍💻 Solomon Tesfaye
 
-**Certified Ethical Hacker | Penetration Tester | CTF Player | Bug Hunter**
+**CEH | Penetration Tester | CTF Player | Bug Hunter**
 
 ---
 
