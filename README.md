@@ -25,6 +25,37 @@
 
 I'm always eager to learn, collaborate, and grow. I value **respect**, enjoy having **fun**, and stay **serious when it matters**. Whether it's building tools, finding bugs, or helping others, I'm all in.
 
+Perfect! Here's your fully updated section with a clean and professional style, including your GitHub writeup links and the revised title:
+
+---
+
+## 🛡️ Security Projects & Writeups
+
+Here are a few selected cybersecurity projects and CTF achievements:
+
+1. [OWASP Juice Shop Vulnerability Report 🧪](https://www.linkedin.com/posts/solomon-tesfaye-088871374_owasp-juice-shop-writeup-ctf-activity-7171004568010919936-6iGm?utm_source=share&utm_medium=member_desktop)
+   → A detailed vulnerability report based on OWASP Juice Shop challenges.
+
+2. [WGEL CTF - TryHackMe Capture the Flag 🕵️‍♂️](https://www.linkedin.com/posts/solomon-tesfaye-088871374_tryhackme-wgel-ctf-activity-7171775642105458688-7MxA?utm_source=share&utm_medium=member_desktop)
+   → Solved WGEL CTF, demonstrating skills in reconnaissance, exploitation, and privilege escalation.
+
+> ⚠️ These are just sample works. I’ve completed many more projects—feel free to explore them on my social profiles:
+
+* 🔗 [LinkedIn](https://www.linkedin.com/in/solomon-tesfaye-088871374/)
+* 🐦 [Twitter/X](https://x.com/sol_tes1)
+
+---
+
+### 📄 Writeups (PDF & Markdown)
+
+Here is how I hack — with structured and detailed writeup files:
+
+* 🧪 [OWASP Juice Shop Writeup](https://github.com/sol654/OWASP-JUICE-SHOPE) (PDF, MD)
+* 🕵️ [TryHackMe WGEL CTF Writeup](https://github.com/sol654/THM-Wgel_ctf-writeup)
+* 📁 [More Writeups →](https://github.com/sol654/CTF_writeups)
+
+---
+
 ## 📫 Connect with Me
 
 - 🐦 Twitter: [@sol_tes1](https://x.com/sol_tes1)  
