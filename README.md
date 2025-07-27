@@ -1,12 +1,10 @@
 # 👨‍💻 Solomon Tesfaye
 
 **Certified Ethical Hacker | Penetration Tester | CTF Player | Bug Hunter**
-<img width="1122" height="638" alt="image" src="https://github.com/user-attachments/assets/9c8cb552-33a6-48dc-8d9d-eea3218d04b9" /> <img width="942" height="631" alt="image" src="https://github.com/user-attachments/assets/619f78c6-da74-4e15-947d-31bdaecc3b7e" />
-
-
 ---
 
 🔐 I'm Solomon Tesfaye, a passionate cybersecurity enthusiast with a strong focus on **web application security**. I enjoy exploring vulnerabilities, solving Capture The Flag (CTF) challenges, and continuously sharpening my skills in offensive security.
+<img width="1122" height="638" alt="image" src="https://github.com/user-attachments/assets/9c8cb552-33a6-48dc-8d9d-eea3218d04b9" />
 
 ## 🚀 What I Do
 
