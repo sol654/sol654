@@ -1,7 +1,8 @@
 # 👨‍💻 Solomon Tesfaye
 
 **Certified Ethical Hacker | Penetration Tester | CTF Player | Bug Hunter**
-![Uploading image.png…]()
+<img width="1122" height="638" alt="image" src="https://github.com/user-attachments/assets/9c8cb552-33a6-48dc-8d9d-eea3218d04b9" /> <img width="942" height="631" alt="image" src="https://github.com/user-attachments/assets/619f78c6-da74-4e15-947d-31bdaecc3b7e" />
+
 
 ---
 
