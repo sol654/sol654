@@ -12,7 +12,7 @@ Look my Ethical hacking other certifications -> [My Certifications](https://gith
 - 🛡️ Ethical Hacking & Penetration Testing  
 - 🐞 Bug Bounty Hunting  
 - ⚙️ Web Security Research & Vulnerability Analysis  
-- 🎯 Active CTF Participant
+- � Active CTF Participant
 
 ## 🧠 Skills & Knowledge
 
@@ -38,7 +38,7 @@ Here are a few selected cybersecurity projects and CTF achievements:
 2. [WGEL CTF - TryHackMe Capture the Flag 🕵️‍♂️](https://www.linkedin.com/posts/solomon-tesfaye-088871374_wgel-ctf-activity-7353947383581360128-F-57?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFytHigB3ypuKmfnB2mkDs3Xa1SjDm5ah_g)
    → Solved WGEL CTF, demonstrating skills in reconnaissance, exploitation, and privilege escalation.
 
-> ⚠️ These are just sample works. I’ve completed many more projects—feel free to explore them on my social profiles:
+> ⚠️ These are just sample works. I've completed many more projects—feel free to explore them on my social profiles:
 
 * 🔗 [LinkedIn](https://www.linkedin.com/in/solomon-tesfaye-088871374/)
 * 🐦 [Twitter/X](https://x.com/sol_tes1)
@@ -75,6 +75,7 @@ Here is how I hack — with structured and detailed writeup files:
 
 ## 📫 Connect with Me
 
+- 🌐 Website: [solace-website-lovat.vercel.app](https://solace-website-lovat.vercel.app/)
 - 🐦 Twitter: [@sol_tes1](https://x.com/sol_tes1)  
 - 💬 Telegram: [@sol_the_great](https://t.me/sol_the_great)  
 - 💼 LinkedIn: [Solomon Tesfaye](https://www.linkedin.com/in/solomon-tesfaye-088871374/)  
@@ -82,4 +83,4 @@ Here is how I hack — with structured and detailed writeup files:
 
 ---
 
-_“Hack the planet... but ethically.”_
+_"Hack the planet... but ethically."_
