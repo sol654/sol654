@@ -18,8 +18,9 @@ Here are my key cybersecurity credentials:
 
 | Certification | Badge |
 | :--- | :---: |
-| **GTWSS Pentest Specialization** | <img width="450" alt="GTWSS Pentest Certificate" src="https://github.com/sol654/My-certifications/blob/main/GTWSS.png" /> |
-| **GTSTv2 CyberSec** | <img width="450" alt="GTSTv2 Certificate" src="https://github.com/user-attachments/assets/9c8cb552-33a6-48dc-8d9d-eea3218d04b9" /> |
+| **GTWSS Pentest Specialization** | <img width="300" alt="GTWSS Pentest Certificate" src="https://github.com/sol654/My-certifications/blob/main/GTWSS.png" /> |
+| **GTSTv2 CyberSec** | <img width="300" alt="GTSTv2 Certificate" src="https://github.com/user-attachments/assets/9c8cb552-33a6-48dc-8d9d-eea3218d04b9" /> |
+| **Udemy Ethical Hacking Certification** | <img width="300" alt="Udemy Ethical Hacking Certificate" src="https://github.com/sol654/My-certifications/blob/main/Udemy%20Ethical_Hacking%20certificate.jpg" /> |
 
 **📁 View all certifications:** [My Certifications Repository](https://github.com/sol654/My-certifications/)
 
