@@ -4,7 +4,7 @@
 ---
 
 🔐 I'm Solomon Tesfaye, a passionate cybersecurity enthusiast with a strong focus on **web application security**. I enjoy exploring vulnerabilities, solving Capture The Flag (CTF) challenges, and continuously sharpening my skills in offensive security.
-<br>Here is my GTWSS Pentest Specialization and GTSTv2 CyberSec certificates: <img width="1122" height="638" alt="image" src="https://github.com/sol654/My-certifications/blob/main/Solomon%20Tesfaye%20Pentest-Specialist.pdf" />  <img width="1122" height="638" alt="image" src="https://github.com/user-attachments/assets/9c8cb552-33a6-48dc-8d9d-eea3218d04b9" /> 
+<br>Here is my GTWSS Pentest Specialization and GTSTv2 CyberSec certificates: <img width="1122" height="638" alt="image" src="https://github.com/sol654/My-certifications/blob/main/GTWSS.png" />  <img width="1122" height="638" alt="image" src="https://github.com/user-attachments/assets/9c8cb552-33a6-48dc-8d9d-eea3218d04b9" /> 
 Look my Ethical hacking other certifications -> [My Certifications](https://github.com/sol654/My-certifications/)
 
 ## 🚀 What I Do
