@@ -99,7 +99,7 @@ Let's collaborate on security research, discuss vulnerabilities, or explore oppo
 
 ## 💬 Professional Philosophy
 
-I'm committed to continuous learning, ethical security practices, and meaningful collaboration in the cybersecurity community. I balance technical seriousness with collaborative enjoyment, valuing **respect** in all professional interactions while maintaining focus when security matters most.
+I'm always eager to learn, collaborate, and grow. I value **respect**, enjoy having **fun**, and stay **serious when it matters**. Whether it's building tools, finding bugs, or helping others, I'm all in.
 
 *"Whether it's building tools, finding critical bugs, or helping secure digital environments—I'm fully dedicated to the mission."*
 
