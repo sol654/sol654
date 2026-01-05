@@ -1,90 +1,106 @@
 # 👨‍💻 Solomon Tesfaye
 
 **Certified Ethical Hacker | Penetration Tester | CTF Player | Bug Hunter**
+
 ---
 
-🔐 I'm Solomon Tesfaye, a passionate cybersecurity enthusiast with a strong focus on **web application security**. I enjoy exploring vulnerabilities, solving Capture The Flag (CTF) challenges, and continuously sharpening my skills in offensive security.
-<br>Here is my GTWSS Pentest Specialization and GTSTv2 CyberSec certificates: 
-GTWSS Pentest Specialization
-<img width="1122" height="638" alt="image" src="https://github.com/sol654/My-certifications/blob/main/GTWSS.png" /> 
-GTSTv2 CyberSec
-<img width="1122" height="638" alt="image" src="https://github.com/user-attachments/assets/9c8cb552-33a6-48dc-8d9d-eea3218d04b9" /> 
-Look my Ethical hacking other certifications -> [My Certifications](https://github.com/sol654/My-certifications/)
+## 🔐 About Me
 
-## 🚀 What I Do
+I'm Solomon Tesfaye, a passionate cybersecurity professional specializing in **web application security** and offensive security practices. I actively explore vulnerabilities, participate in Capture The Flag (CTF) challenges, and continuously expand my expertise in penetration testing and ethical hacking methodologies.
 
-- 🛡️ Ethical Hacking & Penetration Testing  
-- 🐞 Bug Bounty Hunting  
-- ⚙️ Web Security Research & Vulnerability Analysis  
-- � Active CTF Participant
+> *"Hack the planet... but ethically."*
 
-## 🧠 Skills & Knowledge
+---
 
-- 💻 Programming: Python, JavaScript, Bash, and more  
-- 🐍 Python Frameworks: Mastered **Flask**, explored other security tools  
-- 📡 Networking: Deep understanding of TCP/IP, firewalls, and protocols  
-- 🐧 Linux: Comfortable working with various distributions  
-- 🔎 Familiar with OWASP Top 10 & real-world exploitation
+## 📜 Featured Certifications
 
-## 💬 About Me
+Here are my key cybersecurity credentials:
 
-I'm always eager to learn, collaborate, and grow. I value **respect**, enjoy having **fun**, and stay **serious when it matters**. Whether it's building tools, finding bugs, or helping others, I'm all in.
+| Certification | Badge |
+| :--- | :---: |
+| **GTWSS Pentest Specialization** | <img width="450" alt="GTWSS Pentest Certificate" src="https://github.com/sol654/My-certifications/blob/main/GTWSS.png" /> |
+| **GTSTv2 CyberSec** | <img width="450" alt="GTSTv2 Certificate" src="https://github.com/user-attachments/assets/9c8cb552-33a6-48dc-8d9d-eea3218d04b9" /> |
+
+**📁 View all certifications:** [My Certifications Repository](https://github.com/sol654/My-certifications/)
+
+---
+
+## 🚀 Core Competencies
+
+### 🛡️ Professional Focus
+- **Ethical Hacking & Penetration Testing** – Comprehensive security assessments
+- **Bug Bounty Hunting** – Identifying and reporting vulnerabilities in responsible disclosure programs
+- **Web Security Research & Vulnerability Analysis** – Deep-dive analysis of security flaws
+- **Active CTF Participation** – Regular competition in security challenges
+
+### 🧠 Technical Proficiency
+- **Programming & Scripting:** Python, JavaScript, Bash
+- **Python Frameworks:** Flask (mastered), security tool development
+- **Networking & Infrastructure:** TCP/IP, firewalls, network protocols, security architectures
+- **Operating Systems:** Linux distributions (Kali, Parrot, Ubuntu)
+- **Security Standards:** OWASP Top 10, real-world exploitation techniques
 
 ---
 
 ## 🛡️ Security Projects & Writeups
 
-Here are a few selected cybersecurity projects and CTF achievements:
+### 🔍 Highlighted Security Analyses
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **OWASP Juice Shop Vulnerability Report** | Comprehensive security assessment of the OWASP Juice Shop vulnerable web application. | [🔗 View Report](https://www.linkedin.com/posts/solomon-tesfaye-088871374_owasp-juice-shop-activity-7352321473547534336-B5zS) |
+| **WGEL CTF - TryHackMe Walkthrough** | Complete walkthrough demonstrating reconnaissance, exploitation, and privilege escalation techniques. | [🔗 View Walkthrough](https://www.linkedin.com/posts/solomon-tesfaye-088871374_wgel-ctf-activity-7353947383581360128-F-57) |
 
-1. [OWASP Juice Shop Vulnerability Report 🧪](https://www.linkedin.com/posts/solomon-tesfaye-088871374_owasp-juice-shop-activity-7352321473547534336-B5zS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFytHigB3ypuKmfnB2mkDs3Xa1SjDm5ah_g)
-   → A detailed vulnerability report based on OWASP Juice Shop challenges.
+### 📄 Technical Writeups
+Detailed methodology documentation showcasing my analytical approach:
+- 🧪 **[OWASP Juice Shop Writeup](https://github.com/sol654/OWASP-JUICE-SHOPE)** – Complete vulnerability analysis
+- 🕵️ **[TryHackMe WGEL CTF Writeup](https://github.com/sol654/THM-Wgel_ctf-writeup)** – Step-by-step CTF solution
+- 📁 **[More CTF Writeups](https://github.com/sol654/CTF_writeups)** – Additional security challenge documentation
 
-2. [WGEL CTF - TryHackMe Capture the Flag 🕵️‍♂️](https://www.linkedin.com/posts/solomon-tesfaye-088871374_wgel-ctf-activity-7353947383581360128-F-57?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFytHigB3ypuKmfnB2mkDs3Xa1SjDm5ah_g)
-   → Solved WGEL CTF, demonstrating skills in reconnaissance, exploitation, and privilege escalation.
-
-> ⚠️ These are just sample works. I've completed many more projects—feel free to explore them on my social profiles:
-
-* 🔗 [LinkedIn](https://www.linkedin.com/in/solomon-tesfaye-088871374/)
-* 🐦 [Twitter/X](https://x.com/sol_tes1)
-
-### 📄 Writeups (PDF & Markdown)
-
-Here is how I hack — with structured and detailed writeup files:
-
-* 🧪 [OWASP Juice Shop Writeup](https://github.com/sol654/OWASP-JUICE-SHOPE) 
-* 🕵️ [TryHackMe WGEL CTF Writeup](https://github.com/sol654/THM-Wgel_ctf-writeup)
-* 📁 [More Writeups →](https://github.com/sol654/CTF_writeups)
+> *"These are sample works from my portfolio. Explore more on my social profiles below."*
 
 ---
 
-### 🛠️ Custom Tools
+## 🛠️ Tool Development
 
-💣 **[File Slayer – My First CLI Tool](https://github.com/sol654/file-slayer)**
-→ A Python command-line tool built for CTF players, red teamers, and bug bounty hunters.
-→ Features:
+### 💣 File Slayer – Cybersecurity CLI Tool
+**My first publicly released CLI tool** designed for security professionals, CTF players, and bug bounty hunters.
 
-* Safe file/folder deletion
-* Hashing (MD5, SHA1, SHA256)
-* Metadata extraction
-* Pattern-based filtering
-* Logging & exclusions
+[![File Slayer Repository](https://github.com/user-attachments/assets/b30f026b-1004-4c15-9cbf-840b20591cc2)](https://github.com/sol654/file-slayer)
 
-🔗 Also shared on LinkedIn:
-**[File Slayer – Python Cybersecurity Tool Post](https://www.linkedin.com/posts/solomon-tesfaye-088871374_python-cybersecurity-ctf-activity-7352478375124385793-aeaM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFytHigB3ypuKmfnB2mkDs3Xa1SjDm5ah_g)**
-<img width="515" height="238" alt="image" src="https://github.com/user-attachments/assets/b30f026b-1004-4c15-9cbf-840b20591cc2" />
+**🔗 Repository:** [github.com/sol654/file-slayer](https://github.com/sol654/file-slayer)
 
-🎉 Proudly It was my **first CLI tool** for the cybersecurity community! Now I have many bash and python advanced tools.
+**Key Features:**
+- 🔒 **Safe file/folder operations** – Secure deletion and management
+- 🔐 **Cryptographic hashing** – MD5, SHA1, SHA256 support
+- 📊 **Metadata extraction** – File intelligence gathering
+- 🎯 **Pattern-based filtering** – Targeted file operations
+- 📝 **Comprehensive logging** – Activity tracking and audit trails
 
----
+**Industry Recognition:** [Featured on LinkedIn](https://www.linkedin.com/posts/solomon-tesfaye-088871374_python-cybersecurity-ctf-activity-7352478375124385793-aeaM)
 
-## 📫 Connect with Me
-
-- 🌐 Website: [solace-website-lovat.vercel.app](https://solace-website-lovat.vercel.app/)
-- 🐦 Twitter: [@sol_tes1](https://x.com/sol_tes1)  
-- 💬 Telegram: [@sol_the_great](https://t.me/sol_the_great)  
-- 💼 LinkedIn: [Solomon Tesfaye](https://www.linkedin.com/in/solomon-tesfaye-088871374/)  
-- 🌐 GitHub: [sol654](https://github.com/sol654)
+*This tool represents my commitment to building practical security utilities. I've since developed numerous advanced Bash and Python tools for the security community.*
 
 ---
 
-_"Hack the planet... but ethically."_
+## 📫 Connect With Me
+
+Let's collaborate on security research, discuss vulnerabilities, or explore opportunities in cybersecurity:
+
+| Platform | Link | Purpose |
+| :--- | :--- | :--- |
+| **🌐 Website** | [solace-website-lovat.vercel.app](https://solace-website-lovat.vercel.app/) | Portfolio & blog |
+| **💼 LinkedIn** | [Solomon Tesfaye](https://www.linkedin.com/in/solomon-tesfaye-088871374/) | Professional network |
+| **🐦 Twitter/X** | [@sol_tes1](https://x.com/sol_tes1) | Security news & updates |
+| **💬 Telegram** | [@sol_the_great](https://t.me/sol_the_great) | Direct communication |
+| **🌐 GitHub** | [sol654](https://github.com/sol654) | Code & projects |
+
+---
+
+## 💬 Professional Philosophy
+
+I'm committed to continuous learning, ethical security practices, and meaningful collaboration in the cybersecurity community. I balance technical seriousness with collaborative enjoyment, valuing **respect** in all professional interactions while maintaining focus when security matters most.
+
+*"Whether it's building tools, finding critical bugs, or helping secure digital environments—I'm fully dedicated to the mission."*
+
+---
+*Last updated: January 2026 | © Solomon Tesfaye*
