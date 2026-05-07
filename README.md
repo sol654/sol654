@@ -12,6 +12,12 @@ I'm Solomon Tesfaye, a passionate cybersecurity professional specializing in **w
 
 ---
 
+## 🏛️ Leadership
+
+**Chairperson and a Founding Member of the JU Cybersecurity Club** – Building a community of security enthusiasts through hands-on training, CTF events, and collaborative learning.
+
+---
+
 ## 📜 Featured Certifications
 
 | Certification | Badge |
