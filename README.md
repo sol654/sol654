@@ -142,7 +142,7 @@ While security remains my primary focus, I build applications that solve real-wo
 ### 🤖 Lucy AI – AI-Powered Tour Guide (React Native + Expo)
 **A mobile application powered by an intelligent AI model** built with **React Native and Expo** that provides personalized tour guidance and recommendations.
 
-[![Lucy AI Repository](https://github.com/user-attachments/assets/b30f026b-1004-4c15-9cbf-840b20591cc2)](https://github.com/sol654/Lucy_AI_POWERED_TOUR_GUIDE)
+[![Lucy AI Repository](https://cdn.phototourl.com/free/2026-07-03-31eb17c3-ad36-431a-a7a1-dc4a03b4fe21.png)](https://github.com/sol654/Lucy_AI_POWERED_TOUR_GUIDE)
 
 **🔗 Repository:** [github.com/sol654/Lucy_AI_POWERED_TOUR_GUIDE](https://github.com/sol654/Lucy_AI_POWERED_TOUR_GUIDE)
 
