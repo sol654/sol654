@@ -127,7 +127,7 @@ While security remains my primary focus, I build applications that solve real-wo
 ### 📱 SSCS App – Mobile Application (Flutter)
 **A full-featured mobile application** built with **Flutter** demonstrating my expertise in modern mobile development.
 
-[![SSCS App Repository](https://github.com/user-attachments/assets/b30f026b-1004-4c15-9cbf-840b20591cc2)](https://github.com/sol654/sscs_app)
+[![SSCS App Repository](https://cdn.phototourl.com/free/2026-07-03-9b3091c1-7512-4814-9ec2-abb65bcd9382.png)](https://github.com/sol654/sscs_app)
 
 **🔗 Repository:** [github.com/sol654/sscs_app](https://github.com/sol654/sscs_app)
 
