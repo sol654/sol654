@@ -1,6 +1,6 @@
 # 👨‍💻 Solomon Tesfaye
 
-**Certified Ethical Hacker | Penetration Tester | CTF Player**
+**Certified Ethical Hacker | Penetration Tester | CTF Player | AI & Mobile Developer**
 
 ---
 
@@ -10,11 +10,30 @@ I'm Solomon Tesfaye, a passionate cybersecurity professional specializing in **w
 
 > *"Hack the planet... but ethically."* 💻
 
+Beyond cybersecurity, I'm a versatile developer with hands-on experience in **web development**, **mobile application development** (Flutter & React Native with Expo), and **AI-integrated projects**. This unique blend of security and development skills allows me to build secure, intelligent applications from the ground up.
+
 ---
 
-## 🏛️ Leadership
+## 🏛️ Leadership & Recognition
 
 **Chairperson and a Founding Member of the JU Cybersecurity Club** – Building a community of security enthusiasts through hands-on training, CTF events, and collaborative learning.
+
+### 🏆 Acknowledgments
+- 🏅 **Leadership Acknowledgment Certificate** – Recognized for contributions to the JU Cybersecurity Club
+  [![Leadership Certificate](https://img.shields.io/badge/📜_View_Certificate-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sol654/My-certifications/blob/main/University_Certs/leadership_ack_letter.png)
+
+- 📝 **Computer Science Coordinator Recommendation Letter** – Endorsement for academic and professional excellence
+  [![Recommendation Letter](https://img.shields.io/badge/📝_View_Recommendation-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sol654/My-certifications/blob/main/University_Certs/recommendation_letter.png)
+
+---
+
+## 💼 Professional Experience
+
+**Cybersecurity Intern** – *ThreatXEd Company*
+- Conducted comprehensive penetration testing across diverse applications and infrastructure
+- Identified and responsibly disclosed vulnerabilities, enhancing overall security posture
+- Collaborated with senior security engineers on real-world security assessments
+- Gained practical experience with industry-standard security tools and methodologies
 
 ---
 
@@ -42,6 +61,9 @@ I'm Solomon Tesfaye, a passionate cybersecurity professional specializing in **w
 ### 🧠 Technical Proficiency
 - **💻 Programming & Scripting:** Python, JavaScript, Bash
 - **🐍 Python Frameworks:** Flask (mastered), security tool development
+- **📱 Mobile Development:** Flutter, React Native (Expo)
+- **🗄️ Backend & Database:** Supabase, SQL (PostgreSQL, MySQL)
+- **🤖 AI Integration:** Experience with AI-powered application development
 - **📡 Networking & Infrastructure:** TCP/IP, firewalls, network protocols, security architectures
 - **🐧 Operating Systems:** Linux distributions (Kali, Parrot, Ubuntu)
 - **🔎 Security Standards:** OWASP Top 10, real-world exploitation techniques
@@ -63,6 +85,55 @@ Detailed methodology documentation showcasing my analytical approach:
 - 📁 **[More CTF Writeups](https://github.com/sol654/CTF_writeups)** – Additional security challenge documentation
 
 > ✨ *"These are sample works from my portfolio. Explore more on my social profiles below."*
+
+---
+
+## 💻 Development & AI Projects
+
+Beyond security, I build applications that solve real-world problems using modern technologies and AI integration.
+
+### 🤖 Lucy AI – AI-Powered Tour Guide
+**A Flutter mobile application powered by an intelligent AI model** that provides personalized tour guidance and recommendations.
+
+[![Lucy AI Repository](https://github.com/user-attachments/assets/b30f026b-1004-4c15-9cbf-840b20591cc2)](https://github.com/sol654/Lucy_AI_POWERED_TOUR_GUIDE)
+
+**🔗 Repository:** [github.com/sol654/Lucy_AI_POWERED_TOUR_GUIDE](https://github.com/sol654/Lucy_AI_POWERED_TOUR_GUIDE)
+
+**Key Features:**
+- 🧠 **AI-powered recommendation engine** – Intelligent tour suggestions
+- 📱 **Cross-platform mobile app** – Built with Flutter
+- 🌍 **Real-time location-based services** – Context-aware guidance
+- 🎯 **Personalized user experiences** – Adaptive recommendations
+
+---
+
+### 📱 SSCS App – Mobile Application
+**A full-featured mobile application** demonstrating my expertise in modern mobile development.
+
+[![SSCS App Repository](https://github.com/user-attachments/assets/b30f026b-1004-4c15-9cbf-840b20591cc2)](https://github.com/sol654/sscs_app)
+
+**🔗 Repository:** [github.com/sol654/sscs_app](https://github.com/sol654/sscs_app)
+
+**Technologies:**
+- 📱 **React Native with Expo** – Cross-platform development
+- 🗄️ **Supabase** – Backend and authentication
+- 📊 **SQL** – Efficient data management
+- 🔐 **Secure implementation** – Best security practices
+
+---
+
+### 🛒 Mini Shop – Web Application
+**A full-stack web application** showcasing my web development capabilities with modern architecture.
+
+[![Mini Shop Repository](https://github.com/user-attachments/assets/b30f026b-1004-4c15-9cbf-840b20591cc2)](https://github.com/sol654/Mini_Shop)
+
+**🔗 Repository:** [github.com/sol654/Mini_Shop](https://github.com/sol654/Mini_Shop)
+
+**Key Features:**
+- 🌐 **Responsive web design** – Seamless across all devices
+- ⚡ **Optimized performance** – Fast and efficient
+- 🛡️ **Security-first approach** – Protected user data
+- 📦 **Full-featured e-commerce** – Complete shopping experience
 
 ---
 
@@ -103,6 +174,8 @@ Detailed methodology documentation showcasing my analytical approach:
 ## 💬 Professional Philosophy
 
 I'm always eager to learn, collaborate, and grow. I value **respect** 🤝, enjoy having **fun** 🎉, and stay **serious when it matters** 🎯. Whether it's building tools, finding bugs, or helping others, I'm all in 💯.
+
+My diverse background in cybersecurity, development, and AI allows me to approach challenges holistically and create solutions that are both innovative and secure.
 
 *"Finding the balance between focused security work and collaborative energy drives the best results."* ✨
 
