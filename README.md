@@ -1,7 +1,7 @@
 
 # 👨‍💻 Solomon Tesfaye
 
-**Certified Ethical Hacker | Penetration Tester | CTF Player**
+**Ethical Hacker | Penetration Tester | CTF Player**
 
 ---
 
