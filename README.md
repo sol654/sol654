@@ -157,8 +157,6 @@ While security remains my primary focus, I build applications that solve real-wo
 ### 🛒 Mini Shop – Web Application
 **A full-stack web application** showcasing my web development capabilities with modern architecture.
 
-[![Mini Shop Repository](https://github.com/user-attachments/assets/b30f026b-1004-4c15-9cbf-840b20591cc2)](https://github.com/sol654/Mini_Shop)
-
 **🔗 Repository:** [github.com/sol654/Mini_Shop](https://github.com/sol654/Mini_Shop)
 
 **Key Features:**
