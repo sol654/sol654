@@ -60,9 +60,9 @@ Beyond cybersecurity, I'm a versatile developer with hands-on experience in **we
 - **Active CTF Participation** 🏁 – Regular competition in security challenges
 
 ### 🧠 Technical Proficiency
-- **💻 Programming & Scripting:** Python, JavaScript, Bash
+- **💻 Programming & Scripting:** Python, JavaScript(also ReactJS), Bash
 - **🐍 Python Frameworks:** Flask (mastered), security tool development
-- **📱 Mobile Development:** Flutter (SSCS App), React Native with Expo (Lucy AI)
+- **📱 Mobile Development:** Flutter, React Native with Expo
 - **🗄️ Backend & Database:** Supabase, SQL (PostgreSQL, MySQL), NoSQL (MongoDB)
 - **🤖 AI Integration:** Experience with AI-powered application development
 - **📡 Networking & Infrastructure:** TCP/IP, firewalls, network protocols, security architectures
