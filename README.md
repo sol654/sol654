@@ -1,6 +1,7 @@
+
 # 👨‍💻 Solomon Tesfaye
 
-**Certified Ethical Hacker | Penetration Tester | CTF Player | AI & Mobile Developer**
+**Certified Ethical Hacker | Penetration Tester | CTF Player**
 
 ---
 
@@ -10,7 +11,7 @@ I'm Solomon Tesfaye, a passionate cybersecurity professional specializing in **w
 
 > *"Hack the planet... but ethically."* 💻
 
-Beyond cybersecurity, I'm a versatile developer with hands-on experience in **web development**, **mobile application development** (Flutter & React Native with Expo), and **AI-integrated projects**. This unique blend of security and development skills allows me to build secure, intelligent applications from the ground up.
+Beyond cybersecurity, I'm a versatile developer with hands-on experience in **web development**, **mobile application development** (Flutter & React Native with Expo), and **AI-integrated projects**. This unique blend of security and development skills allows me to build secure, intelligent applications from the ground up. In database, I work with NoSQL-MongoDB alongside traditional SQL databases, giving me flexibility across different data storage paradigms.
 
 ---
 
@@ -62,7 +63,7 @@ Beyond cybersecurity, I'm a versatile developer with hands-on experience in **we
 - **💻 Programming & Scripting:** Python, JavaScript, Bash
 - **🐍 Python Frameworks:** Flask (mastered), security tool development
 - **📱 Mobile Development:** Flutter, React Native (Expo)
-- **🗄️ Backend & Database:** Supabase, SQL (PostgreSQL, MySQL)
+- **🗄️ Backend & Database:** Supabase, SQL (PostgreSQL, MySQL), NoSQL (MongoDB)
 - **🤖 AI Integration:** Experience with AI-powered application development
 - **📡 Networking & Infrastructure:** TCP/IP, firewalls, network protocols, security architectures
 - **🐧 Operating Systems:** Linux distributions (Kali, Parrot, Ubuntu)
@@ -88,9 +89,40 @@ Detailed methodology documentation showcasing my analytical approach:
 
 ---
 
+## 💣 File Slayer & Security Tools
+
+Before diving into development projects, I want to highlight my security tooling work—because development is an additional skill that complements my primary focus on security.
+
+### 🔧 File Slayer – Cybersecurity CLI Tool
+**My first publicly released CLI tool** 🎉 designed for security professionals, CTF players, and bug bounty hunters.
+
+[![File Slayer Repository](https://github.com/user-attachments/assets/b30f026b-1004-4c15-9cbf-840b20591cc2)](https://github.com/sol654/file-slayer)
+
+**🔗 Repository:** [github.com/sol654/file-slayer](https://github.com/sol654/file-slayer)
+
+**Key Features:**
+- 🔒 **Safe file/folder operations** – Secure deletion and management
+- 🔐 **Cryptographic hashing** – MD5, SHA1, SHA256 support
+- 📊 **Metadata extraction** – File intelligence gathering
+- 🎯 **Pattern-based filtering** – Targeted file operations
+- 📝 **Comprehensive logging** – Activity tracking and audit trails
+
+**Industry Recognition:** [Featured on LinkedIn](https://www.linkedin.com/posts/solomon-tesfaye-088871374_python-cybersecurity-ctf-activity-7352478375124385793-aeaM) 📢
+
+### 🔐 Additional Security Projects
+Beyond File Slayer, I've developed numerous Bash and Python tools for the security community, including:
+- Custom enumeration scripts for reconnaissance
+- Automated vulnerability scanners
+- Privilege escalation detection tools
+- Network analysis utilities
+
+*These tools represent my commitment to building practical security utilities that help the community.* 🚀
+
+---
+
 ## 💻 Development & AI Projects
 
-Beyond security, I build applications that solve real-world problems using modern technologies and AI integration.
+While security remains my primary focus, I build applications that solve real-world problems using modern technologies and AI integration. Development is an additional skill that enhances my ability to create secure, intelligent applications.
 
 ### 🤖 Lucy AI – AI-Powered Tour Guide
 **A Flutter mobile application powered by an intelligent AI model** that provides personalized tour guidance and recommendations.
@@ -134,28 +166,6 @@ Beyond security, I build applications that solve real-world problems using moder
 - ⚡ **Optimized performance** – Fast and efficient
 - 🛡️ **Security-first approach** – Protected user data
 - 📦 **Full-featured e-commerce** – Complete shopping experience
-
----
-
-## 🛠️ Tool Development
-
-### 💣 File Slayer – Cybersecurity CLI Tool
-**My first publicly released CLI tool** 🎉 designed for security professionals, CTF players, and bug bounty hunters.
-
-[![File Slayer Repository](https://github.com/user-attachments/assets/b30f026b-1004-4c15-9cbf-840b20591cc2)](https://github.com/sol654/file-slayer)
-
-**🔗 Repository:** [github.com/sol654/file-slayer](https://github.com/sol654/file-slayer)
-
-**Key Features:**
-- 🔒 **Safe file/folder operations** – Secure deletion and management
-- 🔐 **Cryptographic hashing** – MD5, SHA1, SHA256 support
-- 📊 **Metadata extraction** – File intelligence gathering
-- 🎯 **Pattern-based filtering** – Targeted file operations
-- 📝 **Comprehensive logging** – Activity tracking and audit trails
-
-**Industry Recognition:** [Featured on LinkedIn](https://www.linkedin.com/posts/solomon-tesfaye-088871374_python-cybersecurity-ctf-activity-7352478375124385793-aeaM) 📢
-
-*This tool represents my commitment to building practical security utilities. I've since developed numerous advanced Bash and Python tools for the security community.* 🚀
 
 ---
 
