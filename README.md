@@ -7,7 +7,7 @@
 
 ## 🔐 About Me
 
-I'm Solomon Tesfaye, a passionate cybersecurity professional specializing in **web application security** and offensive security practices. I actively explore vulnerabilities, participate in Capture The Flag (CTF) challenges 🏆, and continuously expand my expertise in penetration testing and ethical hacking methodologies.
+I'm Solomon Tesfaye, a passionate cybersecurity professional specializing in **web application security** and offensive security practices. I actively explore vulnerabilities, participate in CTF challenges 🏆, and continuously expand my expertise in penetration testing and ethical hacking methodologies.
 
 > *"Hack the planet... but ethically."* 💻
 
