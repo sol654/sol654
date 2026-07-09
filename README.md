@@ -11,7 +11,7 @@ I'm Solomon Tesfaye, a passionate cybersecurity professional specializing in **w
 
 > *"Hack the planet... but ethically."* 💻
 
-Beyond cybersecurity, I'm a versatile developer with hands-on experience in **web development**, **mobile application development** and **AI-integrated projects**. This unique blend of security and development skills allows me to build secure, intelligent applications from the ground up.
+Beyond cybersecurity, I'm a versatile developer with hands-on experience in **web development**, **mobile application development**, **Telegram Bot development** and also **AI-integrated projects**. This unique blend of security and development skills allows me to build secure, intelligent applications from the ground up.
 
 ---
 
