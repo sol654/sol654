@@ -42,7 +42,7 @@ Beyond cybersecurity, I'm a versatile developer with hands-on experience in **we
 
 | Certification | Badge |
 | :--- | :---: |
-| **GTWSS Pentest Specialization** 🔐 | <img width="280" alt="GTWSS Pentest Certificate" src="https://github.com/sol654/My-certifications/blob/main/GTWSS.png" /> |
+| **GTWSS Pentest Specialization** `Almost 5 months of training + 24hr pentesting exam from recon to reporting — advanced web security specialization.` 🔐 | <img width="280" alt="GTWSS Pentest Certificate" src="https://github.com/sol654/My-certifications/blob/main/GTWSS.png" /> |
 | **GTSTv2 CyberSec** 🛡️ | <img width="280" alt="GTSTv2 Certificate" src="https://github.com/user-attachments/assets/9c8cb552-33a6-48dc-8d9d-eea3218d04b9" /> |
 | **Udemy Ethical Hacking** 🎯 | <img width="280" alt="Udemy Ethical Hacking Certificate" src="https://github.com/sol654/My-certifications/blob/main/Udemy%20Ethical_Hacking%20certificate.jpg" /> |
 | **Huawei HCIA Security** 🌐 | <img width="280" alt="Huawei HCIA Security Certificate" src="https://github.com/sol654/My-certifications/blob/main/Huawei_HCIA-Security_cert.png" /> |
