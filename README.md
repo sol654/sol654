@@ -76,12 +76,12 @@ Beyond cybersecurity, I'm a versatile developer with hands-on experience in **we
 ### 🔍 Highlighted Security Analyses
 | Project | Description | Link |
 | :--- | :--- | :--- |
-| **OWASP Juice Shop Vulnerability Report** 🧪 | Comprehensive security assessment of the OWASP Juice Shop vulnerable web application | [🔗 View Report](https://www.linkedin.com/posts/solomon-tesfaye-088871374_owasp-juice-shop-activity-7352321473547534336-B5zS) |
+| **Vulnerability Report** 🧪 | Comprehensive security assessment of the Just vulnerable web application | [🔗 View Report](https://www.linkedin.com/posts/solomon-tesfaye-088871374_owasp-juice-shop-activity-7352321473547534336-B5zS) |
 | **WGEL CTF - TryHackMe Walkthrough** 🕵️‍♂️ | Complete walkthrough demonstrating reconnaissance, exploitation, and privilege escalation | [🔗 View Walkthrough](https://www.linkedin.com/posts/solomon-tesfaye-088871374_wgel-ctf-activity-7353947383581360128-F-57) |
 
 ### 📄 Technical Writeups
 Detailed methodology documentation showcasing my analytical approach:
-- 🧪 **[OWASP Juice Shop Writeup](https://github.com/sol654/OWASP-JUICE-SHOPE)** – Complete vulnerability analysis
+- 🧪 **[OWASP Juice Shop Writeup](https://github.com/sol654/OWASP-JUICE-SHOPE)** – Complete vulnerability analysis(Just writeup)
 - 🕵️ **[TryHackMe WGEL CTF Writeup](https://github.com/sol654/THM-Wgel_ctf-writeup)** – Step-by-step CTF solution
 - 📁 **[More CTF Writeups](https://github.com/sol654/CTF_writeups)** – Additional security challenge documentation
 
